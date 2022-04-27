@@ -1,0 +1,7 @@
+name: "Jojostry"
+displayName: "jojostry"
+author: Yourself
+description: "A jojo mod for mindustry"
+version: "1.0"
+minGameVersion: "135.2"
+hidden : false
